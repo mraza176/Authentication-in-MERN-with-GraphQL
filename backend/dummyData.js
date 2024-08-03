@@ -1,0 +1,42 @@
+export const users = [
+  {
+    _id: "1",
+    name: "John Doe",
+    email: "johndoe@gmail.com",
+    password: "123456",
+    profilePic: "profilePic1.jpg",
+    gender: "male",
+  },
+  {
+    _id: "2",
+    name: "Jane Doe",
+    email: "janeDoe@gmail.com",
+    password: "123456",
+    profilePic: "profilePic2.jpg",
+    gender: "female",
+  },
+  {
+    _id: "3",
+    name: "John Smith",
+    email: "johnsmith@gmail.com",
+    password: "123456",
+    profilePic: "profilePic3.jpg",
+    gender: "male",
+  },
+  {
+    _id: "4",
+    name: "Jane Smith",
+    email: "janesmith@gmail.com",
+    password: "123456",
+    profilePic: "profilePic4.jpg",
+    gender: "female",
+  },
+  {
+    _id: "5",
+    name: "John Johnson",
+    email: "johnjohnson@gmail.com",
+    password: "123456",
+    profilePic: "profilePic5.jpg",
+    gender: "male",
+  },
+];
